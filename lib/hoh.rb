@@ -43,6 +43,7 @@ def naming_system
   # HoH all the way to Species!
   
   biological_life_on_earth={
+<<<<<<< HEAD
     label:"Kingdom",
     sub_category:{
       label:"Phylum",
@@ -62,6 +63,9 @@ def naming_system
         }
       }
     }
+=======
+    
+>>>>>>> 6d9e0d31420e4edc6732a94f00dc8ffbc6b0ffe6
   }
 
 end
